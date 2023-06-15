@@ -1,0 +1,10 @@
+#folders
+__pycache__/
+build/
+sln/
+venv/
+.idea/
+Debug/
+Release/
+obj/
+
